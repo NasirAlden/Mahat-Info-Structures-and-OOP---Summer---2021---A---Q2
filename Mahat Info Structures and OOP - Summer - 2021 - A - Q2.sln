@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mahat Info Structures and OOP - Summer - 2021 - A - Q2", "Mahat Info Structures and OOP - Summer - 2021 - A - Q2\Mahat Info Structures and OOP - Summer - 2021 - A - Q2.csproj", "{4FE34112-952C-43B7-A7EF-60A0422F5D5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FE34112-952C-43B7-A7EF-60A0422F5D5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE34112-952C-43B7-A7EF-60A0422F5D5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE34112-952C-43B7-A7EF-60A0422F5D5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE34112-952C-43B7-A7EF-60A0422F5D5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5E34DF-8E9C-4263-ABE9-7F01702577A1}
+	EndGlobalSection
+EndGlobal
